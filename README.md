@@ -10,9 +10,9 @@
   </p>
   <p>
     <a href="https://github.com/arvindgfx1"><img src="https://img.shields.io/badge/GitHub-arvindgfx1-171717?style=flat-square&logo=github&logoColor=white"></a>
-    <a href="https://instagram.com/arvind.aee"><img src="https://img.shields.io/badge/Instagram-arvindgfx1-333?style=flat-square&logo=instagram&logoColor=white"></a>
+    <a href="https://instagram.com/arvind.aee"><img src="https://img.shields.io/badge/Instagram-arvind.aee-333?style=flat-square&logo=instagram&logoColor=white"></a>
     <a href="https://coderclas.com"><img src="https://img.shields.io/badge/Website-coderclas.com-0f0?style=flat-square&logo=google-chrome&logoColor=black"></a>
-    <a href="https://wearvelaro.in/"><img src="https://img.shields.io/badge/Shop-paddystoles.myshopify.com-171717?style=flat-square&logo=shopify&logoColor=white"></a>
+    <a href="https://wearvelaro.in/"><img src="https://img.shields.io/badge/wearvelaro.in?style=flat-square&logo=shopify&logoColor=white"></a>
   </p>
 </div>
 
